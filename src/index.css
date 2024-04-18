@@ -1,0 +1,17 @@
+:root {
+ --color-primary:#393C49;
+ --menu-background:#1F1D2B;
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: none;
+}
+
+body{
+  background: var(--color-primary);
+}
+
+
